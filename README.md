@@ -1,2 +1,21 @@
-# devmeetup
-This is a web application development using vue js along with the tutorials of udemy's course called " Vue JS Project | Build an App with Vuejs, Vuetify and Firebase". This is my first experience with Vue JS and this web application is pretty much similar with the author of the course.  
+# devmeetup-vue
+
+> a dev meetup application built with vue + vuetify + firebase
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
